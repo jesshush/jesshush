@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="370" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"><br>
  
 - 🔭 Pursuing T.E in Computer Science
-- 🌱 I’m currently learning **Linux, React.js, ML**
+- 🌱 I’m currently learning **KaliLinux, Neural NetworkS**
   <br><br>
 
 
