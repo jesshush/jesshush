@@ -3,7 +3,7 @@
  
 - 🔭 Pursuing T.E in Computer Science
 - 🌱 I’m currently learning **KaliLinux, Neural NetworkS**
-- 👩🏻‍💻 Here's my portfolio: https://jesshush.github.io/Portfolio1/ <a href = "https://jesshush.github.io/Portfolio1/">
+- 👩🏻‍💻 Here's my portfolio:  <a href = "">
   <br><br>
 
 
